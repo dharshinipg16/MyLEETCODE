@@ -28,6 +28,7 @@ class Solution:
             
             if not is_valid_move():
                 # If it's time to turn, increment the current direction index
+                #for corners
                 curr_dir = (curr_dir + 1) % 4
                 
         return result
