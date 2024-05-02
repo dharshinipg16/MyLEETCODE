@@ -27,7 +27,7 @@ class Solution {
         
         while (!q.isEmpty()) {
             int cur = q.poll();
-            completed.add(0,cur);
+            completed.add(cur);
             for (int child : adj.get(cur)) {
                 indegree[child]--;
                 if (indegree[child] == 0) {
@@ -38,7 +38,7 @@ class Solution {
         int[] ans=new int[completed.size()];
         if (completed.size()==n){
             for(int i=0;i<completed.size();i++) {
-                ans[i]=completed.get(i);
+                ans[i]=completed.get(completed.size()-i-1);
             }
             return ans;
         }
