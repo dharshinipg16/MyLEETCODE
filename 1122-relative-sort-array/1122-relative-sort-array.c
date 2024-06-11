@@ -47,7 +47,7 @@ int* relativeSortArray(int* arr1, int arr1Size, int* arr2, int arr2Size, int* re
             m++;
         }
     }
-    qsort((result+n),(arr1Size-n),sizeof(int),compareTo);
+    qsort((result+n),(arr1Size-n),sizeof(int),compareTo); //qsort is  c function [ qsort(strt pos of arr , size of what to be sorted , type len of soreting ele , compareTo func ti sort) ]
     *returnSize=arr1Size;
     return result;
 }
