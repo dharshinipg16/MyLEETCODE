@@ -10,8 +10,7 @@ int minMovesToSeat(int* seats, int seatsSize, int* students, int studentsSize) {
     int count = 0;
     qsort(seats,seatsSize,sizeof(seats[0]),compare);
     qsort(students,studentsSize,sizeof(int),compare);
-    
-    int prevseat = 0;
+
     int seatcounter = 0;
     int studentcounter = 0;
     while (studentcounter<studentsSize && seatcounter<seatsSize) {
