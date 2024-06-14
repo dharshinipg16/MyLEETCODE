@@ -16,6 +16,7 @@ My personal leetcode solution that I solved !!!
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3221-find-the-peaks) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -68,11 +69,13 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3164-last-visited-integers](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3164-last-visited-integers) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3447-clear-digits) |
 # Matrix
 |  |
 | ------- |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3330-modify-the-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
 # Enumeration
@@ -86,6 +89,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3371-harshad-number) |
