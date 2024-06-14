@@ -6,6 +6,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -32,6 +33,7 @@ My personal leetcode solution that I solved !!!
 # Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
