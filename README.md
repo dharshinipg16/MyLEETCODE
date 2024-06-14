@@ -8,6 +8,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -49,6 +50,7 @@ My personal leetcode solution that I solved !!!
 # Hash Table
 |  |
 | ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
