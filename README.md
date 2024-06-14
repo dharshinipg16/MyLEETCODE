@@ -16,6 +16,7 @@ My personal leetcode solution that I solved !!!
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3221-find-the-peaks](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3221-find-the-peaks) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
@@ -78,6 +79,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+| [3221-find-the-peaks](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3221-find-the-peaks) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
 # Math
