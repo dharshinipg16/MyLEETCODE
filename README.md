@@ -21,6 +21,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3396-valid-word) |
@@ -64,6 +66,7 @@ My personal leetcode solution that I solved !!!
 # Math
 |  |
 | ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3371-harshad-number) |
 # Bit Manipulation
