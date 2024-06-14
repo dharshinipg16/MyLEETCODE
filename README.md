@@ -8,6 +8,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -46,6 +47,7 @@ My personal leetcode solution that I solved !!!
 # Simulation
 |  |
 | ------- |
+| [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3447-clear-digits) |
 # Matrix
 |  |
@@ -69,3 +71,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+# Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
