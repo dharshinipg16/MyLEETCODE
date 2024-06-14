@@ -75,11 +75,13 @@ My personal leetcode solution that I solved !!!
 # Enumeration
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
 # Math
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3371-harshad-number) |
@@ -103,3 +105,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+# Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
