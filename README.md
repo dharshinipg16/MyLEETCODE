@@ -9,6 +9,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3164-last-visited-integers](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -59,6 +60,7 @@ My personal leetcode solution that I solved !!!
 # Simulation
 |  |
 | ------- |
+| [3164-last-visited-integers](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3164-last-visited-integers) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3447-clear-digits) |
 # Matrix
