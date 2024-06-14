@@ -8,6 +8,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -46,6 +47,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [2886-faulty-keyboard](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
