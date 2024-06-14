@@ -9,6 +9,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Greedy
 |  |
@@ -38,3 +39,11 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3447-clear-digits) |
+# Matrix
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
+# Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
