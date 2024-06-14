@@ -31,6 +31,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [3312-number-of-changing-keys](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
