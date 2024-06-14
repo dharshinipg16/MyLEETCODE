@@ -25,6 +25,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [3396-valid-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3447-clear-digits) |
 # Counting
 |  |
