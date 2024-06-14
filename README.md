@@ -8,6 +8,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3330-modify-the-matrix) |
@@ -27,6 +28,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 # String
 |  |
@@ -62,6 +64,7 @@ My personal leetcode solution that I solved !!!
 # Enumeration
 |  |
 | ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
 # Math
 |  |
