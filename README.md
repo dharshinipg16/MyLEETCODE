@@ -45,6 +45,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [2886-faulty-keyboard](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2886-faulty-keyboard) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -68,6 +69,7 @@ My personal leetcode solution that I solved !!!
 # Simulation
 |  |
 | ------- |
+| [2886-faulty-keyboard](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2886-faulty-keyboard) |
 | [3164-last-visited-integers](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3164-last-visited-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
