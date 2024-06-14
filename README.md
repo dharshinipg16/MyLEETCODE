@@ -15,6 +15,7 @@ My personal leetcode solution that I solved !!!
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
@@ -57,6 +58,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -91,10 +93,12 @@ My personal leetcode solution that I solved !!!
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Sliding Window
 |  |
 | ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Prefix Sum
@@ -109,3 +113,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
+# Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
