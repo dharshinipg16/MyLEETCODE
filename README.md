@@ -48,3 +48,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3398-make-a-square-with-the-same-color](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3398-make-a-square-with-the-same-color) |
+# Math
+|  |
+| ------- |
+| [3371-harshad-number](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3371-harshad-number) |
