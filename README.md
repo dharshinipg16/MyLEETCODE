@@ -9,6 +9,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
+| [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -25,6 +26,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 # String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My personal leetcode solution that I solved !!!
 # Math
 |  |
 | ------- |
+| [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3371-harshad-number) |
 # Bit Manipulation
 |  |
