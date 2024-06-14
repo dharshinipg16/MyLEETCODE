@@ -9,6 +9,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -85,6 +86,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Sliding Window
