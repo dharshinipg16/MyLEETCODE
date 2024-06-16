@@ -8,6 +8,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -51,6 +52,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [2886-faulty-keyboard](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3207-make-three-strings-equal](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3207-make-three-strings-equal) |
@@ -127,6 +129,7 @@ My personal leetcode solution that I solved !!!
 # Two Pointers
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Combinatorics
 |  |
