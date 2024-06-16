@@ -6,6 +6,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -95,6 +96,7 @@ My personal leetcode solution that I solved !!!
 # Math
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
 | [3199-distribute-candies-among-children-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -130,3 +132,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
+# Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
