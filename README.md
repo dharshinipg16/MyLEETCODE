@@ -113,6 +113,7 @@ My personal leetcode solution that I solved !!!
 # Bit Manipulation
 |  |
 | ------- |
+| [0899-binary-gap](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0899-binary-gap) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
