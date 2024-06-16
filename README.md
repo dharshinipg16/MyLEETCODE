@@ -53,6 +53,7 @@ My personal leetcode solution that I solved !!!
 | [0824-number-of-lines-to-write-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0851-goat-latin) |
 | [2886-faulty-keyboard](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3207-make-three-strings-equal](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3207-make-three-strings-equal) |
