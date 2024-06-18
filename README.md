@@ -9,6 +9,7 @@ My personal leetcode solution that I solved !!!
 | [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -36,6 +37,7 @@ My personal leetcode solution that I solved !!!
 # Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -43,6 +45,7 @@ My personal leetcode solution that I solved !!!
 # Sorting
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -133,6 +136,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
+| [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Combinatorics
 |  |
@@ -147,3 +151,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0830-largest-triangle-area](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0866-rectangle-overlap) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
