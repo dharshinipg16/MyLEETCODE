@@ -12,6 +12,7 @@ My personal leetcode solution that I solved !!!
 | [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -155,3 +156,4 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
