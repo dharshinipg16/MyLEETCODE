@@ -12,6 +12,7 @@ My personal leetcode solution that I solved !!!
 | [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1138-grumpy-bookstore-owner](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -128,6 +129,7 @@ My personal leetcode solution that I solved !!!
 # Sliding Window
 |  |
 | ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
