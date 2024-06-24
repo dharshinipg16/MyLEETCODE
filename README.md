@@ -12,6 +12,7 @@ My personal leetcode solution that I solved !!!
 | [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -122,6 +123,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0899-binary-gap](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0899-binary-gap) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3183-find-the-k-or-of-an-array) |
@@ -130,6 +132,7 @@ My personal leetcode solution that I solved !!!
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -138,6 +141,7 @@ My personal leetcode solution that I solved !!!
 # Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3311-ant-on-the-boundary](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3311-ant-on-the-boundary) |
 # Two Pointers
 |  |
@@ -167,6 +171,7 @@ My personal leetcode solution that I solved !!!
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
