@@ -11,6 +11,7 @@ My personal leetcode solution that I solved !!!
 | [0841-shortest-distance-to-a-character](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0890-lemonade-change) |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1138-grumpy-bookstore-owner) |
@@ -84,6 +85,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0837-most-common-word) |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -197,6 +199,7 @@ My personal leetcode solution that I solved !!!
 # Depth-First Search
 |  |
 | ------- |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
@@ -216,5 +219,14 @@ My personal leetcode solution that I solved !!!
 # Graph
 |  |
 | ------- |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
 | [1916-find-center-of-star-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
+# Union Find
+|  |
+| ------- |
+| [0964-minimize-malware-spread-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0964-minimize-malware-spread-ii) |
