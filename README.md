@@ -47,6 +47,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Sorting
 |  |
@@ -55,6 +56,7 @@ My personal leetcode solution that I solved !!!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3321-type-of-triangle) |
 # String
@@ -178,6 +180,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -214,3 +217,4 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
