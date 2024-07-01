@@ -244,11 +244,13 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -258,6 +260,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+| [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 ## String
 |  |
 | ------- |
@@ -266,4 +269,8 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+## Matrix
+|  |
+| ------- |
+| [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 <!---LeetCode Topics End-->
