@@ -257,4 +257,13 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+## String
+|  |
+| ------- |
+| [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+## Simulation
+|  |
+| ------- |
+| [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 <!---LeetCode Topics End-->
