@@ -246,6 +246,7 @@ My personal leetcode solution that I solved !!!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -301,4 +302,12 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
