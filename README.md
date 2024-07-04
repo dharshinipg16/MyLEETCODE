@@ -271,6 +271,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -296,4 +297,8 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
