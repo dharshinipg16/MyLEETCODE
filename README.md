@@ -276,6 +276,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
@@ -318,4 +319,8 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
