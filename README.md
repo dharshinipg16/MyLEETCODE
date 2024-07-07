@@ -275,6 +275,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+| [1642-water-bottles](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2645-pass-the-pillow) |
 ## Matrix
@@ -322,5 +323,6 @@ My personal leetcode solution that I solved !!!
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
