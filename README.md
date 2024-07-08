@@ -271,6 +271,7 @@ My personal leetcode solution that I solved !!!
 ## String
 |  |
 | ------- |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 ## Simulation
 |  |
@@ -288,6 +289,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ My personal leetcode solution that I solved !!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Math
 |  |
