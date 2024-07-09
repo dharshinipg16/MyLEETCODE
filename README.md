@@ -263,6 +263,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [1293-three-consecutive-odds](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -304,10 +305,12 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -317,6 +320,7 @@ My personal leetcode solution that I solved !!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
