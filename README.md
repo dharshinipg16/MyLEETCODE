@@ -275,6 +275,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 ## Simulation
@@ -350,5 +351,6 @@ My personal leetcode solution that I solved !!!
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
