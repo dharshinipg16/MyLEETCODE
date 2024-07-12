@@ -278,6 +278,7 @@ My personal leetcode solution that I solved !!!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -315,6 +316,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -353,4 +355,5 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
