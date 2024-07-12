@@ -271,6 +271,7 @@ My personal leetcode solution that I solved !!!
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## String
 |  |
 | ------- |
@@ -279,6 +280,7 @@ My personal leetcode solution that I solved !!!
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -356,4 +358,12 @@ My personal leetcode solution that I solved !!!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Counting
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
