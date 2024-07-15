@@ -276,6 +276,7 @@ My personal leetcode solution that I solved !!!
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
@@ -300,6 +301,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Two Pointers
 |  |
@@ -314,6 +316,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
+| [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -358,6 +361,7 @@ My personal leetcode solution that I solved !!!
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
