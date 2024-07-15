@@ -271,6 +271,7 @@ My personal leetcode solution that I solved !!!
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2846-robot-collisions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2846-robot-collisions) |
 ## String
@@ -303,6 +304,7 @@ My personal leetcode solution that I solved !!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,4 +376,12 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
