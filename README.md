@@ -270,6 +270,7 @@ My personal leetcode solution that I solved !!!
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
@@ -302,6 +303,7 @@ My personal leetcode solution that I solved !!!
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 ## Hash Table
 |  |
