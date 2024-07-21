@@ -251,6 +251,7 @@ My personal leetcode solution that I solved !!!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
@@ -258,6 +259,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
@@ -277,6 +279,7 @@ My personal leetcode solution that I solved !!!
 | [1803-average-waiting-time](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2846-robot-collisions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2846-robot-collisions) |
 ## String
@@ -305,6 +308,7 @@ My personal leetcode solution that I solved !!!
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
