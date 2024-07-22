@@ -270,6 +270,7 @@ My personal leetcode solution that I solved !!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1293-three-consecutive-odds](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1449-print-words-vertically](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1449-print-words-vertically) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -348,6 +349,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -357,6 +359,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Math
 |  |
@@ -371,6 +374,7 @@ My personal leetcode solution that I solved !!!
 ## Queue
 |  |
 | ------- |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -402,4 +406,12 @@ My personal leetcode solution that I solved !!!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Sliding Window
+|  |
+| ------- |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1286-constrained-subsequence-sum](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1286-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
