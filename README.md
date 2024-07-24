@@ -277,6 +277,7 @@ My personal leetcode solution that I solved !!!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -319,6 +320,7 @@ My personal leetcode solution that I solved !!!
 | [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -336,6 +338,7 @@ My personal leetcode solution that I solved !!!
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2846-robot-collisions) |
 ## Greedy
