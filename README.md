@@ -244,6 +244,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph
 |  |
@@ -251,6 +252,7 @@ My personal leetcode solution that I solved !!!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -367,6 +369,7 @@ My personal leetcode solution that I solved !!!
 ## Shortest Path
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
