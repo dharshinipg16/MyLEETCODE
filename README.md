@@ -270,6 +270,7 @@ My personal leetcode solution that I solved !!!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0948-sort-an-array) |
@@ -336,6 +337,7 @@ My personal leetcode solution that I solved !!!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -437,6 +439,7 @@ My personal leetcode solution that I solved !!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
