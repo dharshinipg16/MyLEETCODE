@@ -336,6 +336,7 @@ My personal leetcode solution that I solved !!!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -412,6 +413,7 @@ My personal leetcode solution that I solved !!!
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -419,6 +421,7 @@ My personal leetcode solution that I solved !!!
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -451,4 +454,8 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
