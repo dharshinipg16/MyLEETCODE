@@ -271,6 +271,7 @@ My personal leetcode solution that I solved !!!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0948-sort-an-array) |
@@ -343,6 +344,7 @@ My personal leetcode solution that I solved !!!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0726-number-of-atoms) |
