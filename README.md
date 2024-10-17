@@ -235,6 +235,7 @@ My personal leetcode solution that I solved !!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0200-number-of-islands) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -243,6 +244,7 @@ My personal leetcode solution that I solved !!!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0200-number-of-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -266,12 +268,14 @@ My personal leetcode solution that I solved !!!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0056-merge-intervals) |
+| [0200-number-of-islands](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -320,6 +324,7 @@ My personal leetcode solution that I solved !!!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dharshinipg16/MyLEETCODE/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/dharshinipg16/MyLEETCODE/tree/master/1696-strange-printer-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dharshinipg16/MyLEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
